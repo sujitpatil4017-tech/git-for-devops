@@ -1,0 +1,12 @@
+def greet_user(name):
+    print(f"Hello, {name}! Welcome to Python.")
+
+def add_numbers(a, b):
+    return a + b
+
+# Main program
+if __name__ == "__main__":
+    greet_user("Alice")
+    result = add_numbers(5, 7)
+    print(f"The sum is: {result}")
+
