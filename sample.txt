@@ -9,4 +9,9 @@ if __name__ == "__main__":
     greet_user("Alice")
     result = add_numbers(5, 7)
     print(f"The sum is: {result}")
+    print "hello git"
+    print "please take me in"
+    print "i am not want to stuck"
+
+
 
